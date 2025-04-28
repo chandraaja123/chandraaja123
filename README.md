@@ -27,7 +27,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 📊 GitHub Stats:
-[![Afrandormd's GitHub stats](https://github-readme-stats.vercel.app/api?username=afrandormd&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![chandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandraaja123&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br/>
 <!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=afrandormd&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=afrandormd&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
